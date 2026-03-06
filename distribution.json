@@ -3075,8 +3075,8 @@
     "packageName": "com.touch.mobile.dark",
     "versionHash": "jcj98b",
     "rss": "https://touch-rp.com/api/launcer/news",
-    "cdnCache": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/cache.zip",
-    "cdnLauncher": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/cache.zip"
+    "cdnCache": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/",
+    "cdnLauncher": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/",
     "filesContinue": [
         "settings.ini",
         "gta_sa.set",
