@@ -3,14 +3,14 @@
     {
       "url": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/cache.zip",
       "path": "samp",
-      "size": 123456789,
-      "md5": "здесь-будет-md5-файла-cache"
+      "size": 692000000,
+      "md5": "нужно-вставить-md5-cache"
     },
     {
-      "url": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/snow.zip",
+      "url": "https://github.com/Den1108/samp-mobile-cache/releases/download/v1.0.0/cache_snow.zip",
       "path": "snow",
-      "size": 98765432,
-      "md5": "здесь-будет-md5-файла-snow"
+      "size": 284000000,
+      "md5": "нужно-вставить-md5-snow"
     }
   ]
 }
