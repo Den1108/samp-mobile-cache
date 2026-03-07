@@ -3075,8 +3075,8 @@
     "packageName": "com.touch.mobile.dark",
     "versionHash": "jcj98b",
     "rss": "https://touch-rp.com/api/launcer/news",
-    "cdnCache": "https://game.touch-rp.com/mobile/cache",
-    "cdnLauncher": "https://game.touch-rp.com/mobile/launcher",
+    "cdnCache": "https://adorable-druid-2a5b25.netlify.app/",
+    "cdnLauncher": "https://adorable-druid-2a5b25.netlify.app/",
     "filesContinue": [
         "settings.ini",
         "gta_sa.set",
