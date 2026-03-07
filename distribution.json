@@ -3107,9 +3107,9 @@
             ],
             "slot": 100,
             "bonus": true,
-            "name": "Arizona RP",
+            "name": "188.127.241.8:1468",
             "description": "SA-MP Mobile",
-            "address": "46.174.50.50:7777",
+            "address": "188.127.241.8:1468",
             "sampVersion": "0.3.7"
         },
         {
