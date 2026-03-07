@@ -3083,7 +3083,7 @@
         "svconfig.ini"
     ],
     "launcher": {
-        "appVersion": "0.0.39",
+        "appVersion": "0.0.16",
         "name": "app-release.apk",
         "hash": "ec0a32d46e7b0b3ce8db5c866fe2b4d9",
         "mtime": 1772830865,
