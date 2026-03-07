@@ -3092,7 +3092,7 @@
     "servers": [
         {
             "id": 1,
-            "show": true,
+            "show": false,
             "version": "1.0",
             "icon": "https://game.touch-rp.com/mobile/image/pro_icon.jpeg",
             "events": [
@@ -3107,9 +3107,9 @@
             ],
             "slot": 100,
             "bonus": true,
-            "name": "тест",
+            "name": "SantropТест",
             "description": "SA-MP Mobile",
-            "address": "51.91.91.88:7777",
+            "address": "80.66.71.49:5125",
             "sampVersion": "0.3.7"
         },
         {
