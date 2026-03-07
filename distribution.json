@@ -3107,9 +3107,9 @@
             ],
             "slot": 100,
             "bonus": true,
-            "name": "PRO - Server",
+            "name": "Arizona RP",
             "description": "SA-MP Mobile",
-            "address": "188.127.241.8:1468",
+            "address": "46.174.50.50:7777",
             "sampVersion": "0.3.7"
         },
         {
